@@ -13,5 +13,4 @@ Works fine on Google Colaboratory.
 
 This notebook is the result of the work of:
 
-Joachim DUBLINEAU
-Samuel MONTINI
+Joachim DUBLINEAU & Samuel MONTINI
